@@ -31,8 +31,8 @@ I enjoy learning new technologies and developing projects focused on privacy, au
 
 ## 🔥 Featured Projects
 
-### 1. PDFALL
-An offline-first Android PDF toolkit designed to perform PDF operations locally without requiring cloud services.
+### 1. PDF_ALL_TOOLs
+An offline - Android PDF toolkit designed to perform PDF operations locally
 
 ### 2. BLUEFILE AI
 An offline AI-powered file organizer designed to organize files intelligently using local rules and AI.
