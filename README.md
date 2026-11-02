@@ -31,7 +31,7 @@ I enjoy learning new technologies and developing projects focused on privacy, au
 
 ## 🔥 Featured Projects
 
-### 1. PDF_ALL_TOOLs
+### 1. PDF_ALL_TOOLS
 An offline - Android PDF toolkit designed to perform PDF operations locally
 
 ### 2. BLUEFILE AI
