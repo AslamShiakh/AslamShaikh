@@ -29,10 +29,6 @@ I enjoy learning new technologies and developing projects focused on privacy, au
 **Database**
 - MySQL
 
-**Tools**
-- Git & GitHub
-- Visual Studio Code
-
 ## 🔥 Featured Projects
 
 ### 1. PDFALL
@@ -40,9 +36,6 @@ An offline-first Android PDF toolkit designed to perform PDF operations locally 
 
 ### 2. BLUEFILE AI
 An offline AI-powered file organizer designed to organize files intelligently using local rules and AI.
-
-### 3. AI Shorts Generator
-An automated video creation project designed to generate YouTube Shorts with narration, subtitles, and video editing.
 
 ## 📚 Currently Learning
 
